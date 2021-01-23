@@ -9,3 +9,5 @@ A repository of games made for the TEC Redshift, a fictional, virtual handheld c
 * [Reddit thread analyzing the Redshift](https://www.reddit.com/r/exapunks/comments/90duqu/some_analysis_about_tec_redshift_the_programmable/)
 
 Thanks to Theophile for linking me to the vast majority of the games you see here.
+
+[Steam thread where the majority of games were sourced.](https://steamcommunity.com/app/716490/discussions/0/1640915206485587930/)
