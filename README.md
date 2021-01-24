@@ -13,3 +13,5 @@ Thanks to Theophile for linking me to the vast majority of the games you see her
 [Steam thread where the majority of games were sourced.](https://steamcommunity.com/app/716490/discussions/0/1640915206485587930/)
 
 Credit to Tormyst for Shiftbird.
+
+Credit to Isaac Wass for 15 Puzzle.
