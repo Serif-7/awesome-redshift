@@ -14,4 +14,4 @@ Thanks to Theophile for linking me to the vast majority of the games you see her
 
 Credit to Tormyst for Shiftbird.
 
-Credit to Isaac Wass for 15 Puzzle.
+Credit to Isaac Wass for Fifteen-Puzzle, M.U.L.E Screensaver, QR Encoder, Season's Greetings, and TIS-330.
