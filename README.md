@@ -17,3 +17,5 @@ Credit to Tormyst for Shiftbird.
 Credit to Isaac Wass for Fifteen-Puzzle, M.U.L.E Screensaver, QR Encoder, Season's Greetings, and TIS-330.
 
 Credit to Sebusol for TYPE-TYPE FIGHTER.
+
+Credit to [Travis Thieman](https://github.com/thieman) for 2048.
