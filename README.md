@@ -19,3 +19,5 @@ Credit to Isaac Wass for Fifteen-Puzzle, M.U.L.E Screensaver, QR Encoder, Season
 Credit to Sebusol for TYPE-TYPE FIGHTER.
 
 Credit to [Travis Thieman](https://github.com/thieman) for 2048.
+
+Credit to Molchat Games for KALZAK
