@@ -21,3 +21,5 @@ Credit to Sebusol for TYPE-TYPE FIGHTER.
 Credit to [Travis Thieman](https://github.com/thieman) for 2048.
 
 Credit to Molchat Games for KALZAK Adventure + Gold
+
+Credit to Wonjag for Redshifter
